@@ -1,0 +1,21 @@
+# Frontend dependencies
+**/node_modules/
+
+# Environment variables
+**/.env
+**/.env.*
+
+# Build files
+**/dist/
+**/build/
+
+# IntelliJ files
+**/.idea/
+**/*.iml
+
+# Java build files
+**/target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
